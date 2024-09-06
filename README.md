@@ -1,5 +1,3 @@
-## **README.md Informal para o GitHub**
-
 ### **O que esse código faz?**
 
 **Simplesmente, ele busca por termos em uma lista de dados e exibe os resultados em uma página HTML.**
